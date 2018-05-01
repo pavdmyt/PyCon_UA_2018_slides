@@ -68,4 +68,4 @@ PyCon Ukraine 2018 slides
 * [❤️ Maps, part two](https://www.dropbox.com/s/1ccyw3pn560uxrk/love_maps_2.pdf)
 -- *Alex Vykaliuk*
 * [Microservices or does the size matter?](https://www.slideshare.net/yuiysenko/microservices-or-does-the-size-matter)
--- * Yuriy Senko*
+-- *Yuriy Senko*
