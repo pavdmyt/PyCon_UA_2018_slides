@@ -23,7 +23,7 @@ PyCon Ukraine 2018 slides
 -- *Mikhail Kashkin*
 * [How to separate frontend from a highload python project with no problems](https://www.slideshare.net/AlexanderTarasenko1/how-to-separate-frontend-from-a-highload-python-project-with-no-problems-pycon-ua-2018)
 -- *Oleksandr Tarasenko*
-* [Binary data in Python with a bit of C spice on top]()
+* [Binary data in Python with a bit of C spice on top](https://slides.com/drizzt1991/binary-data-in-python#/)
 -- *Taras Voinarovskyi*
 * [Goodbye cron, hello Airflow](https://www.slideshare.net/secret/BsignoDgAU5saz)
 -- *Yuriy Senko*
