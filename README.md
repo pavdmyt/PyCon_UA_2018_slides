@@ -59,7 +59,7 @@ PyCon Ukraine 2018 slides
 -- *Vladimir Kirillov*
 * [Python Type Hints in practice - is it worth it?]()
 -- *Marek Bleschke*
-* [mypy: static types in Python]()
+* [mypy: static types in Python](https://www.dropbox.com/s/omma003lj31amsh/talk_new_mypy.pdf?dl=0)
 -- *Ivan Levkivskyi*
 
 
