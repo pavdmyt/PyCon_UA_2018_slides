@@ -27,7 +27,7 @@ PyCon Ukraine 2018 slides
 -- *Taras Voinarovskyi*
 * [Goodbye cron, hello Airflow](https://www.slideshare.net/secret/BsignoDgAU5saz)
 -- *Yuriy Senko*
-* [Peer to peer file synchronization for your apps]()
+* [Peer to peer file synchronization for your apps](https://tailhook.github.io/ciruela-presentation/)
 -- *Paul Colomiets*
 
 
